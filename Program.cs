@@ -15,10 +15,3 @@ for (int i = newName1.Length - 1; i >= 0; i--)
     Console.Write(newName1[i]+" ");
 }
 
-
-
-//string[] newName;
-
-//newName = name.Split(' ');
-
-//Console.WriteLine(newName[0]);
